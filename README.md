@@ -7,9 +7,8 @@ This Python application automates the processing and mutation of problem stateme
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/problem-mutation-system.git
-   cd problem-mutation-system
+   git clone https://github.com/Maksim1021/Problem-Processing-and-Mutation-System.git
+   cd Problem-Processing-and-Mutation-System
 
 2. Install dependencies:
    pip install -r requirements.txt
@@ -23,4 +22,4 @@ Run the main script:
 
 ## Testing
 Run the unit tests:
-   pytest tests/test_process_problems.py
+   pytest test_process_problems.py
