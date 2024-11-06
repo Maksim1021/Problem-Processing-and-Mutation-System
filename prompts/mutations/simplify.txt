@@ -1,0 +1,2 @@
+Simplify the following problem statement, making it easier to understand for a beginner:
+{problem}
