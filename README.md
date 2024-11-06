@@ -8,6 +8,7 @@ This Python application automates the processing and mutation of problem stateme
 1. Clone this repository:
 
    git clone https://github.com/Maksim1021/Problem-Processing-and-Mutation-System.git
+   
    cd Problem-Processing-and-Mutation-System
 
 2. Install dependencies:
