@@ -1,0 +1,2 @@
+Expand the following problem statement by adding more details and providing examples:
+{problem}
