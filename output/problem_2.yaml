@@ -1,4 +1,0 @@
-id: 2
-original: "Design an algorithm to find the longest common subsequence in two strings."
-mutation: "Create an algorithm that finds the longest common subsequence (LCS) between two given strings. The algorithm should optimize for time complexity."
-mutation_score: 0.75

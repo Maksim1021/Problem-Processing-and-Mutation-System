@@ -1,4 +1,0 @@
-id: 1
-original: "Create a function that calculates the factorial of a number using recursion."
-mutation: "Write a recursive function that computes the factorial of a number. The function should return 1 for base case and calculate the factorial for any positive integer."
-mutation_score: 0.85

@@ -1,2 +1,0 @@
-Rephrase the following problem statement using different words but keeping the meaning the same:
-{problem}
